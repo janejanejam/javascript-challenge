@@ -19,6 +19,6 @@ Build a HTML web page with a table to display UFO sighting dataset and a date se
 
 * [UFO Sightings Data](UFO-level-1/static/js/data.js)
 
-## Sample Screenshot
+## Website 
 
-* [UFO Sightings Screenshot](UFO-level-1/static/images/UFO_sighting_screenshot.png)
+* https://janejanejam.github.io/javascript-challenge/

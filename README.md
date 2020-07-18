@@ -21,4 +21,4 @@ Build a HTML web page with a table to display UFO sighting dataset and a date se
 
 ## Sample Screenshot
 
-* [UFO Sightings Screenshot](UFO-level-1/static/images/UFO_sighting_screenshot)
+* [UFO Sightings Screenshot](UFO-level-1/static/images/UFO_sighting_screenshot.png)
